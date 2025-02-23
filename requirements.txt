@@ -16,3 +16,4 @@ pycountry
 pywebio
 pillow
 langchain-community
+lxml[html_clean]
