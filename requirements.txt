@@ -17,3 +17,4 @@ pywebio
 pillow
 langchain-community
 lxml[html_clean]
+streamlit_lottie
